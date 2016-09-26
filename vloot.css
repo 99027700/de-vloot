@@ -1,0 +1,93 @@
+body{
+	
+}
+div.titel{
+	background-image: url("header.jpg");
+	width:  600px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul{
+	margin-top: 140px;
+	padding: 0px;
+	color: white;
+}
+li{
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: white;
+
+}
+div.text{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+
+
+}
+div.bg{
+	background-image: url("bg.png");
+	height: 250px;
+	margin-top: -20px;
+}
+p{
+
+}
+img.top-left{
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+p.top{
+	margin-top: -25px;
+}
+img.right{
+	float: right;
+	margin-top: -100px;
+	margin: 10px;
+}
+
+img.bottom-left{
+	float: left;
+	width: 300px;
+	height: 200px;
+	margin: 20px;
+}
+h2{
+	padding-top: 10px;
+	font-size: 18px;
+}
+img.top-left2{
+	float: left;
+	height: 185px;
+	width: 175px;
+	margin: 10px;
+}
+img.top-left3{
+	float: left;
+	margin: 10px;
+
+}
+img.bottom-right{
+	float: right;
+	margin: 10px;
+}
+img.top-right{
+	float: right;
+	margin: 15px;
+}
+img.bottom-left2{
+	float: left;
+	height: 150px;
+	width: 150px;
+	margin: 5px;
+}
+a{
+	color: white;
+}
+a:hover{
+	color: red;
+}
